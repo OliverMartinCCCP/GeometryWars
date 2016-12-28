@@ -21,9 +21,9 @@ import java.util.List;
 public class GeometrywarsDA {
     public final static GeometrywarsDA instance = new GeometrywarsDA();
 
-    private static final String URL = "jdbc:mysql://sql7.freesqldatabase.com:3306/sql7150667";
-    private static final String USER = "sql7150667";
-    private static final String PASSWORD = "8rF2JvLt7B";
+    private static final String URL = "jdbc:mysql:YourDatabase";
+    private static final String USER = "Your username";
+    private static final String PASSWORD = "Your password";
 
     private Connection connection;
 
