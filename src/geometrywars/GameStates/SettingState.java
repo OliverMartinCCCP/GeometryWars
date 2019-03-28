@@ -12,7 +12,7 @@ import java.awt.Frame;
 
 /**
  *
- * @author Olivier
+ * @author Oliver
  */
 public class SettingState{
 
