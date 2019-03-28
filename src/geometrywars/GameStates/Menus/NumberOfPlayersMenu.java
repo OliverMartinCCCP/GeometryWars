@@ -22,7 +22,7 @@ import org.lwjgl.input.Controllers;
 
 /**
  *
- * @author olivi
+ * @author Oliver
  */
 public class NumberOfPlayersMenu extends State {
 
